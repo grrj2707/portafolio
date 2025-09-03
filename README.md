@@ -8,26 +8,36 @@ Young professional in Economics with experience in PwC Deals, founder of an NGO 
 - **Título:** Trinchera del Sur
 - **Componentes:** Indicadores de impacto, ejes (flora, fauna, granja), ética territorial
 - **Documentación técnica:** Visualización de datos, estructuras administrativas, portafolio de impacto
-- 📎 **(https://exciting-krypton-185.notion.site/Trinchera-del-Sur-1f9ac9b536b98111b6e1df8876bfcb65?pvs=73)**
+- 📎 **[Portfolio](https://exciting-krypton-185.notion.site/Trinchera-del-Sur-1f9ac9b536b98111b6e1df8876bfcb65?pvs=73)**
 
 ---
 
 ##  Publicaciones y papers
 
 
-- *El rol de los cuidados en la desigualdad rural*  
-  → Tesis de licenciatura (2024). Análisis con base en INEGI, CEPAL, y Bourdieu.  
+- Acceso a Servicios de Cuidado Infantil: Impacto en las Oportunidades Laborales de Mujeres con Hijos en la Primera Infancia en Zonas Rurales y Urbanas de México. Análisis con Datos de  la Encuesta Nacional para el Sistema de Cuidados (ENASIC) 2022
+-> Tesis de licenciatura 
+  Aun en corrección
+  Modelo econométrico: PSM con kernel y datos del ENASIC
+  Referencias: 300 destacandose Fraser, Heckman, Amatya Sen, Sapoltsky, etc
+  
 
 ---
 
 ## 🌐 Portafolio visual y narrativo
 
-> Mi perfil no solo es técnico, también creativo y comprometido con el impacto social, estético y cultural.  
-> Puedes explorar mi marca de joyería, mi A.C., foros internacionales y narrativa personal aquí:
+> Portafolio artistico de mi marca
 
-🔗 **[Portafolio completo en Notion »](https://notion.link-main)**
+ **[Portafolio completo en Behance »](https://www.behance.net/grecia_rubi_ramos)**
 
 ---
+
+## 🌐 Cursos en Coursera
+
+ **[Certificados en Coursera]*(https://www.coursera.org/user/399593e29fee8d0dc401f073f681cb1a)**
+
+---
+
 
 ## 📫 Contacto
 
@@ -37,9 +47,4 @@ Young professional in Economics with experience in PwC Deals, founder of an NGO 
 
 
 
-## 🌐 Portafolio visual y narrativo
 
-> Mi perfil no solo es técnico, también creativo y comprometido con el impacto social, estético y cultural.  
-> Puedes explorar mi marca de joyería, mi A.C., foros internacionales y narrativa personal aquí:
-
-🔗 **(https://www.coursera.org/user/399593e29fee8d0dc401f073f681cb1a)**
