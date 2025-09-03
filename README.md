@@ -35,3 +35,11 @@ Young professional in Economics with experience in PwC Deals, founder of an NGO 
 - 📧 Email: esme.rj@email.com
 - 📄 CV PDF: [Descargar CV técnico](./cv-tecnico-esmerj.pdf)
 
+
+
+## 🌐 Portafolio visual y narrativo
+
+> Mi perfil no solo es técnico, también creativo y comprometido con el impacto social, estético y cultural.  
+> Puedes explorar mi marca de joyería, mi A.C., foros internacionales y narrativa personal aquí:
+
+🔗 **(https://www.coursera.org/user/399593e29fee8d0dc401f073f681cb1a)**
