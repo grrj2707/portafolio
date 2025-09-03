@@ -34,7 +34,7 @@ Young professional in Economics with experience in PwC Deals, founder of an NGO 
 
 ## Cursos en Coursera
 
- **[Certificados en Coursera].(https://www.coursera.org/user/399593e29fee8d0dc401f073f681cb1a)**
+ **[Certificados en Coursera](https://www.coursera.org/user/399593e29fee8d0dc401f073f681cb1a)**
 
 ---
 
