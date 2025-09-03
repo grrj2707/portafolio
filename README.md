@@ -1,27 +1,22 @@
 # Portafolio
-Academic, technical, and creative portfolio 🌍
-I am an economist focused on sustainable development, quantitative analysis, and public policy. I combine technical thinking with a creative and territorial vision, integrating programming, data visualization, econometric analysis, and social action. This repository brings together my main academic, research, and technological projects.
----
+Academic, technical, and creative portfolio 
+Young professional in Economics with experience in PwC Deals, founder of an NGO and a creative brand, both focused on sustainable development, cultural identity, and innovation. My main objective is to make an impact on my community.---
 
-## 📂 Repositorios destacados
+##  Repositorios destacados
 
-### 🌎 Proyecto Territorial y Desarrollo Local
-- **Título:** Propuesta de A.C. con enfoque feminista y agroecológico en Guerrero
+### Proyecto Territorial y Desarrollo Local
+- **Título:** Trinchera del Sur
 - **Componentes:** Indicadores de impacto, ejes (flora, fauna, granja), ética territorial
 - **Documentación técnica:** Visualización de datos, estructuras administrativas, portafolio de impacto
-- 📎 **[Explorar en Notion »](https://notion.link-aqui)**
+- 📎 **(https://exciting-krypton-185.notion.site/Trinchera-del-Sur-1f9ac9b536b98111b6e1df8876bfcb65?pvs=73)**
 
 ---
 
-## 📜 Publicaciones y papers
+##  Publicaciones y papers
 
-- *Análisis comparado de gobernanza del litio: México vs Chile*  
-  → Artículo de economía política (2025).  
-  → [Resumen y metodología en Notion »](https://notion.link-paper-lithium)
 
 - *El rol de los cuidados en la desigualdad rural*  
   → Tesis de licenciatura (2024). Análisis con base en INEGI, CEPAL, y Bourdieu.  
-  → [Ver sección del proyecto »](./tesis-cuidados-desigualdad)
 
 ---
 
