@@ -8,7 +8,7 @@ Young professional in Economics with experience in PwC Deals, founder of an NGO 
 - **Título:** Trinchera del Sur
 - **Componentes:** Indicadores de impacto, ejes (flora, fauna, granja), ética territorial
 - **Documentación técnica:** Visualización de datos, estructuras administrativas, portafolio de impacto
-- 📎 **[Portfolio](https://exciting-krypton-185.notion.site/Trinchera-del-Sur-1f9ac9b536b98111b6e1df8876bfcb65?pvs=73)**
+-  **[Portfolio](https://exciting-krypton-185.notion.site/Trinchera-del-Sur-1f9ac9b536b98111b6e1df8876bfcb65?pvs=73)**
 
 ---
 
@@ -34,7 +34,7 @@ Young professional in Economics with experience in PwC Deals, founder of an NGO 
 
 ## Cursos en Coursera
 
- **[Certificados en Coursera]*(https://www.coursera.org/user/399593e29fee8d0dc401f073f681cb1a)**
+ **[Certificados en Coursera].(https://www.coursera.org/user/399593e29fee8d0dc401f073f681cb1a)**
 
 ---
 
