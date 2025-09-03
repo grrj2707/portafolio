@@ -24,7 +24,7 @@ Young professional in Economics with experience in PwC Deals, founder of an NGO 
 
 ---
 
-## 🌐 Portafolio visual y narrativo
+##  Portafolio visual y narrativo
 
 > Portafolio artistico de mi marca
 
@@ -32,19 +32,10 @@ Young professional in Economics with experience in PwC Deals, founder of an NGO 
 
 ---
 
-## 🌐 Cursos en Coursera
+## Cursos en Coursera
 
  **[Certificados en Coursera]*(https://www.coursera.org/user/399593e29fee8d0dc401f073f681cb1a)**
 
 ---
-
-
-## 📫 Contacto
-
-- 🌍 Notion: [notion.link-main](https://notion.link-main)
-- 📧 Email: esme.rj@email.com
-- 📄 CV PDF: [Descargar CV técnico](./cv-tecnico-esmerj.pdf)
-
-
 
 
