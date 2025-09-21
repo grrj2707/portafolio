@@ -1,38 +1,32 @@
-# Portafolio
-Academic, technical, and creative portfolio 
-Young professional in Economics with experience in PwC Deals, founder of an NGO and a creative brand, both focused on sustainable development, cultural identity, and innovation. My main objective is to make an impact on my community.---
+# Portfolio
+Young economist with applied experience in PwC Deals, NGO leadership, and creative innovation. My goal is to contribute to sustainable development and international policy through research and applied projects, bridging economic analysis with social impact.
 
-##  Repositorios destacados
+### Social Impact Projects
+- **Title:** Trinchera del Sur
+- **Documentación técnica:** Data visualization, administrative structures, impact portfolio. NGO planning and objectives.
+- **[Social media].(https://www.instagram.com/trinchera_del_sur/).**
+- **[Portfolio](https://exciting-krypton-185.notion.site/Trinchera-del-Sur-1f9ac9b536b98111b6e1df8876bfcb65?pvs=73)**
+- **[DOI Territorial Environmental Diagnosis #1 Spanish].(https://doi.org/10.5281/zenodo.16771737).**
+- **[DOI Territorial Environmental Diagnosis #2 Spanish].(https://doi.org/10.5281/zenodo.17066345).**
 
-### Proyecto Territorial y Desarrollo Local
-- **Título:** Trinchera del Sur
-- **Componentes:** Indicadores de impacto, ejes (flora, fauna, granja), ética territorial
-- **Documentación técnica:** Visualización de datos, estructuras administrativas, portafolio de impacto
--  **[Portfolio](https://exciting-krypton-185.notion.site/Trinchera-del-Sur-1f9ac9b536b98111b6e1df8876bfcb65?pvs=73)**
+-**Title:** Rubi Ramos
 
----
-
-##  Publicaciones y papers
-
-
-- Acceso a Servicios de Cuidado Infantil: Impacto en las Oportunidades Laborales de Mujeres con Hijos en la Primera Infancia en Zonas Rurales y Urbanas de México. Análisis con Datos de  la Encuesta Nacional para el Sistema de Cuidados (ENASIC) 2022
--> Tesis de licenciatura 
-  Aun en corrección
-  Modelo econométrico: PSM con kernel y datos del ENASIC
-  Referencias: 300 destacandose Fraser, Heckman, Amatya Sen, Sapoltsky, etc
-  
+ - **[Artistic Portfolio](https://www.behance.net/grecia_rubi_ramos)**
+ - **[Social media].(https://www.instagram.com/rr.chaos/).**
 
 ---
 
-##  Portafolio visual y narrativo
+##  Publications
+- **Title:** Autonomy and Measurable Development: A Difference-in-Differences Analysis of the EZLN in Chiapas (2000–2020)
+- **[DOI].(https://doi.org/10.5281/zenodo.15616981).**
 
-> Portafolio artistico de mi marca
-
- **[Portafolio completo en Behance »](https://www.behance.net/grecia_rubi_ramos)**
+- **Title:** Economic Models in the Field: The Water Problem
+- **[DOI].(https://doi.org/10.5281/zenodo.17087076).**
 
 ---
 
-## Cursos en Coursera
+
+## Courses certificates
 
  **[Certificados en Coursera](https://www.coursera.org/user/399593e29fee8d0dc401f073f681cb1a)**
 
