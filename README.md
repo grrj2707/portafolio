@@ -5,8 +5,8 @@ Young economist with applied experience in PwC Deals, NGO leadership, and creati
 - **Title:** Trinchera del Sur
 - **Documentación técnica:** Data visualization, administrative structures, impact portfolio. NGO planning and objectives.
 - **[Social media](https://www.instagram.com/trinchera_del_sur/).**
-- **[Dossier summarize]([https://drive.google.com/file/d/1A2VC9jodnCbhvMtD_1kwvt8NzOt4_oCs/view?usp=sharing])**
-- **[Notion]([https://www.notion.so/Trinchera-Del-Sur-28bac9b536b9814fb53def91b4a48297?source=copy_link])**
+- **[Dossier summarize](https://drive.google.com/file/d/1A2VC9jodnCbhvMtD_1kwvt8NzOt4_oCs/view?usp=sharing)**
+- **[Notion](https://www.notion.so/Trinchera-Del-Sur-28bac9b536b9814fb53def91b4a48297?source=copy_link)**
 - **[DOI Territorial Diagnosis #1 Spanish](https://doi.org/10.5281/zenodo.16771737).**
 - **[DOI Territorial Diagnosis #2 Spanish](https://doi.org/10.5281/zenodo.17066345).**
 - **[DOI Territorial Diagnosis #3 Spanish](https://doi.org/10.5281/zenodo.17268378).**
