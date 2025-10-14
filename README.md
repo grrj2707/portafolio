@@ -10,6 +10,7 @@ Young economist with applied experience in PwC Deals, NGO leadership, and creati
 - **[DOI Territorial Diagnosis #1 Spanish](https://doi.org/10.5281/zenodo.16771737).**
 - **[DOI Territorial Diagnosis #2 Spanish](https://doi.org/10.5281/zenodo.17066345).**
 - **[DOI Territorial Diagnosis #3 Spanish](https://doi.org/10.5281/zenodo.17268378).**
+- **Current species** Palo morado and mexican deer
 
 ---
 
