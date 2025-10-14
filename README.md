@@ -5,14 +5,11 @@ Young economist with applied experience in PwC Deals, NGO leadership, and creati
 - **Title:** Trinchera del Sur
 - **Documentación técnica:** Data visualization, administrative structures, impact portfolio. NGO planning and objectives.
 - **[Social media](https://www.instagram.com/trinchera_del_sur/).**
-- **[Portfolio]([https://www.notion.so/Trinchera-Del-Sur-28bac9b536b9814fb53def91b4a48297?source=copy_link])**
-- **[DOI Territorial Environmental Diagnosis #1 Spanish](https://doi.org/10.5281/zenodo.16771737).**
-- **[DOI Territorial Environmental Diagnosis #2 Spanish](https://doi.org/10.5281/zenodo.17066345).**
-
-- **Title:** Rubi Ramos
-
- - **[Artistic Portfolio](https://www.behance.net/grecia_rubi_ramos)**
- - **[Social media](https://www.instagram.com/rr.chaos/).**
+- **[Dossier summarize]([https://drive.google.com/file/d/1A2VC9jodnCbhvMtD_1kwvt8NzOt4_oCs/view?usp=sharing])**
+- **[Notion]([https://www.notion.so/Trinchera-Del-Sur-28bac9b536b9814fb53def91b4a48297?source=copy_link])**
+- **[DOI Territorial Diagnosis #1 Spanish](https://doi.org/10.5281/zenodo.16771737).**
+- **[DOI Territorial Diagnosis #2 Spanish](https://doi.org/10.5281/zenodo.17066345).**
+- **[DOI Territorial Diagnosis #3 Spanish](https://doi.org/10.5281/zenodo.17268378).**
 
 ---
 
@@ -31,5 +28,11 @@ Young economist with applied experience in PwC Deals, NGO leadership, and creati
  **[Certificados en Coursera](https://www.coursera.org/user/399593e29fee8d0dc401f073f681cb1a)**
 
 ---
+
+- **Title:** Rubi Ramos
+
+ - **[Artistic Portfolio](https://www.behance.net/grecia_rubi_ramos)**
+ - **[Social media](https://www.instagram.com/rr.chaos/).**
+
 
 
