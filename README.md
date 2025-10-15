@@ -23,7 +23,13 @@ Young economist with applied experience in PwC Deals, NGO leadership, and creati
 
 ---
 
+##  Recomendation letters 
+- **Dr. David Juárez Luna:** Member of the National System of Researchers (SNI Level 1). PhD in Economics, University of Essex (England).
+- **[PROFILE](https://www.anahuac.mx/mexico/EscuelasyFacultades/economia/Profesorado/David-Juarez-Luna).**
 
+- **Dr. Balmori de la Miyar:** Member of the National System of Researchers (SNI Level 1). Administration and Policy Analysis, Cornell University (USA).
+- **[PROFILE](https://www.anahuac.mx/mexico/EscuelasyFacultades/economia/Profesorado/Jose-Balmori-de-la-Miyar)**
+- 
 ## Courses certificates
 
  **[Certificados en Coursera](https://www.coursera.org/user/399593e29fee8d0dc401f073f681cb1a)**
